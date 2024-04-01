@@ -161,6 +161,7 @@ A fantasy console is like a regular console (machine specs, dev tools, community
 *   [Zany80](https://zany80.github.io/main.html) - A fantasy console designed around the Z80 processor.
 *   [Riko4](https://github.com/incinirate/riko4) - A Fantasy Console intended as a tool for pixel art game development.
 *   [ECoS](https://mljware.itch.io/ecos) - A modern fantasy console with Entity-Component-System modular architecture.
+*   [Name Generator] (https://universalnamegenerator.com/) - A fantasy name generator.
 *   [Nano JAMMER](https://morgan3d.github.io/nano/doc/specification.md.html) - A truly tiny console that runs in the browser and integrates into Google Drive. Code in the nano programming language.
 *   [Rewtro](https://github.com/kesiev/rewtro) - A wild little console that runs games encoded in a very small amount of data, meaning they can be printed as qr-codes.
 *   [Script-8](https://script-8.github.io/) - A fantasy computer for making, sharing, and playing tiny retro-looking games. Free, browser-based, and open-source. Code in Javascript
