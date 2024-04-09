@@ -595,7 +595,7 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [Wordoid](http://wordoid.com/) - Random word generator with toggles for language, quality, patterns, length, and domain availability.
 *   [Universal Text Combination Generator](http://textmechanic.com/text-tools/combination-permutation-tools/permutation-generator/)- See how words might fit together.
 *   [Mixwords](https://www.filosophy.org/projects/mixwords/) - Takes source words and generates random mixes.
-*   [Fantasy Name Generator](http://www.fantasynamegenerators.com/) - Generates names, words, and descriptions in many categories.
+*   [Fantasy Name Generator](https://universalnamegenerator.com/) - Generates names, words, and descriptions in many categories.
 *   [Random Name Generator](http://random-name-generator.info/) - Creates names sourced from samples in the US Census.
 *   [carbon](https://carbon.now.sh) - Create and share beautiful images of your source code.
 *   [Blotter](https://blotter.js.org/) -  A JavaScript API for drawing unconventional text effects on the web.
